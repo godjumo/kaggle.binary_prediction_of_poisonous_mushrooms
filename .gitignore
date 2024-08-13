@@ -267,5 +267,7 @@ $RECYCLE.BIN/
 data/
 *.txt
 
+# Catboost log
+catboost_info/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,python,jupyternotebooks,visualstudiocode
